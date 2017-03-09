@@ -1,0 +1,2 @@
+# Voces-del-Olvido
+Proyecto que surge en la Facultad de Periodismo de la Universidad de Castilla la Mancha con la motivación de tratar uno de los principales problemas que hoy existe en la Serranía de Cuenca: la despoblación. Cabe destacar que el encontrarse con municipios prácticamente desiertos en la Serranía conquense es casi ya una obviedad, pero no solo queremos dar visibilidad al problema, sino seguir también la pista de cómo las prácticas para conseguir subvenciones (y las inversiones posteriores) para los municipios no son las más adecuadas.
